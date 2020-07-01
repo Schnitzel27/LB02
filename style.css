@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+s
+h1{
+    font-size: 150%s;
+    color: #333333;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    
+}
+
+video{
+    display: block;
+}
+
+audio{
+    display: block;
+}
+
+header{
+    margin: 2%;
+    padding: 2%;
+    display: block;
+}
+.dropdown-menu{
+    display:flex;
+}
+
+body{
+    margin: 5%;
+    padding: 5%;
+}
